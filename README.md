@@ -1,1 +1,3 @@
-# e-commerce-store-11849-11916
+# Project Repository
+
+This is the initial README file for the project.
